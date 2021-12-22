@@ -1,0 +1,40 @@
+.lead__caption {
+    margin: 8px 0 0;
+    width: 158px;
+    height: 14px;
+    align-self: flex-start;
+    white-space: nowrap;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .lead__caption {
+      margin: 8px auto 0px 0px;
+      max-width: 100%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .lead__caption {
+      margin: 8px auto 0 0px;
+      max-width: 100%;
+    }
+}
+@media (min-width: 321px) and (max-width: 768px) {
+    .lead__caption {
+      margin: 8px auto 0 24px;
+      max-width: 100%;
+    }
+}
+@media (max-width: 320px) {
+    .lead__caption {
+        margin: 8px auto 0 16px;
+        max-width: 100%;
+    }
+}

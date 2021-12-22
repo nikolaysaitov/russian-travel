@@ -1,0 +1,21 @@
+.footer__copyright{
+    margin: 0;
+    font-size: 14px;
+line-height: 16px;
+}
+
+@media (min-width:321px) and (max-width: 768px) {
+    .footer__copyright {
+        font-size: 14px;
+        line-height: 14px;
+    }
+}
+
+@media (max-width: 320px) {
+    .footer__copyright {
+        font-size: 14px;
+line-height: 14px;
+       
+    
+    }
+} 

@@ -1,0 +1,17 @@
+.place__text{
+    margin: 0;
+    max-width: 100%;
+}
+
+@media (min-width:320px) and (max-width: 768px) {
+    .place__text {
+       
+    }
+}
+
+@media (max-width: 320px) {
+    .place__text {
+        margin: 0 16px 0 16px;
+
+    }
+} 

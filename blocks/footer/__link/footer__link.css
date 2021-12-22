@@ -1,0 +1,28 @@
+.footer__link{
+    margin: 0 18px 0 0;
+}
+
+@media (min-width:321px) and (max-width: 767px) {
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 32px;
+    }
+.footer__link:last-child {
+       
+    margin-bottom: 48px;
+        }
+    }   
+
+
+@media (max-width: 320px) {
+    .footer__link {
+        font-size: 24px;
+line-height: 24px;
+margin-bottom: 32px;
+    }
+    .footer__link:last-child {
+       
+margin-bottom: 48px;
+    }
+} 
