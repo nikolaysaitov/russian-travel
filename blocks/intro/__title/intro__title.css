@@ -12,9 +12,6 @@
 @media (min-width:321px) and (max-width: 768px) {
     .intro__title {
         max-width: 288px;
-        
-        
-
         font-style: normal;
         font-weight: 900;
         font-size: 32px;
@@ -24,9 +21,6 @@
   @media (max-width: 320px) {
     .intro__title {
         max-width: 288px;
-        
-        
-
         font-style: normal;
         font-weight: 900;
         font-size: 32px;

@@ -1,24 +1,15 @@
 .cover__link{
     margin: 0;
-    /* max-width: 100%; */
-
     max-width: 1184px;
     height: 740px;
-
-
-
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center;
     position: relative;
     text-decoration: none;
-    /* padding-top: 245px;
-    padding-bottom: 245px; */
     background: url(../../../images/cover-trains.jpg);
-    /* background-size: contain; */
     z-index: 0;
-
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
