@@ -1,0 +1,24 @@
+.footer__link-item{
+
+}
+
+@media (min-width:321px) and (max-width: 767px) {
+    .footer__link-item {
+        margin-bottom: 32px;
+    }
+
+    .footer__link-item:last-child {
+        margin-bottom: 48px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .footer__link-item {
+        margin-bottom: 32px;
+    }
+
+    .footer__link-item:last-child {
+        margin-bottom: 48px;
+    }
+}

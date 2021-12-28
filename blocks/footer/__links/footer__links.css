@@ -1,4 +1,4 @@
-.footer__links{
+.footer__links {
     margin: 0;
     display: flex;
     list-style: none;
@@ -17,6 +17,6 @@
     .footer__links {
         flex-direction: column;
         align-content: flex-start;
-    
+
     }
-} 
+}

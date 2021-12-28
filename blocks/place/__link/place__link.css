@@ -1,7 +1,6 @@
-.place__link{
+.place__link {
     margin: 0;
     width: 456px;
-    height: 22px;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -11,7 +10,7 @@
     transition: 0.2s;
 }
 
-.place__link:hover{
-    color:white;
+.place__link:hover {
+    color: white;
     opacity: 0.8;
 }

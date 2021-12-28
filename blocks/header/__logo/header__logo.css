@@ -1,10 +1,6 @@
-.header__logo.css{
-    position: absolute;
+.header__logo {
     width: 176px;
     height: 52px;
-    left: 48px;
-    top: 28px;
-    background: #FFFFFF;
 }
 
 @media (max-width: 767px) {

@@ -1,12 +1,11 @@
-.place__text{
+.place__website {
     margin: 0;
-    max-width: 100%;
+    align-self: end;
 }
 
 
 @media (max-width: 320px) {
-    .place__text {
+    .place__website {
         margin: 0 16px 0 16px;
-
     }
-} 
+}

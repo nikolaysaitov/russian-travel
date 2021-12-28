@@ -1,4 +1,3 @@
-
 .header__lang-link {
   font-family: Inter;
   font-style: normal;
@@ -15,7 +14,7 @@
 }
 
 @media (max-width: 767px) {
-  
+
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;

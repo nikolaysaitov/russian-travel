@@ -1,4 +1,4 @@
-.place{
+.place {
     margin: 0 0 80px;
     display: grid;
     grid-template-columns: 460px 1fr;
@@ -13,8 +13,8 @@
         grid-gap: 48px 32px;
     }
 }
-     
-     
+
+
 @media (min-width:321px) and (max-width: 768px) {
     .place {
         margin: 0 0 73px;
@@ -28,6 +28,5 @@
         margin: 0 0 50px;
         grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
         grid-gap: 32px;
-    
     }
-} 
+}

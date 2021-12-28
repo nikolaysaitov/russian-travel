@@ -1,4 +1,4 @@
-.cover__text{
+.cover__text {
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -7,4 +7,3 @@
     align-items: center;
 
 }
-

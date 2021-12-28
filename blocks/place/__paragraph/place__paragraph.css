@@ -1,17 +1,17 @@
-.place__paragraph{
-margin: 0 0 26px;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 163%;
+.place__paragraph {
+    margin: 0 0 26px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
 }
 
-.place__paragraph:last-child{
+.place__paragraph:last-child {
     margin: 0;
 }
 
-     
-     
+
+
 @media (min-width:321px) and (max-width: 768px) {
     .place__paragraph {
         font-size: 16px;
@@ -21,6 +21,5 @@ line-height: 163%;
 @media (max-width: 320px) {
     .place__paragraph {
         font-size: 16px;
-
     }
-} 
+}

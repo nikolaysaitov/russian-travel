@@ -1,4 +1,4 @@
-.footer__link{
+.footer__link {
     margin: 0 18px 0 0;
     font-style: normal;
     font-weight: normal;
@@ -7,11 +7,12 @@
     cursor: pointer;
     text-decoration-line: none;
     transition: 0.2s;
+    color: white;
 }
 
 
-.footer__link:hover{
-    color:white;
+.footer__link:hover {
+    color: white;
     opacity: 0.8;
 }
 
@@ -21,10 +22,11 @@
         line-height: 24px;
         margin-bottom: 32px;
     }
-.footer__link:last-child {  
+
+    .footer__link:last-child {
         margin-bottom: 48px;
-        }
-    }   
+    }
+}
 
 
 @media (max-width: 320px) {
@@ -33,7 +35,8 @@
         line-height: 24px;
         margin-bottom: 32px;
     }
-    .footer__link:last-child {   
+
+    .footer__link:last-child {
         margin-bottom: 48px;
     }
-} 
+}

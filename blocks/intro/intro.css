@@ -1,31 +1,29 @@
-.intro{
+.intro {
     margin: 0 auto 92px;
     max-width: 984px;
-    
 }
 
 
 
 @media (min-width: 769px) and (max-width: 1024px) {
-.intro {
-    margin: 0 48px 92px 48px;
-    width: calc(100% - 96px);
-}
+    .intro {
+        margin: 0 48px 92px 48px;
+        width: calc(100% - 96px);
+    }
 }
 
- 
- 
- 
+
+
+
 @media (min-width:321px) and (max-width: 768px) {
-.intro {
-    max-width: calc(100% - 48px);
-}
+    .intro {
+        max-width: calc(100% - 48px);
+    }
 }
 
 @media (max-width: 320px) {
-.intro {
-    margin: 0 16px 64px 16px;
-    max-width: calc(100% - 32px);
-    
+    .intro {
+        margin: 0 16px 64px 16px;
+        max-width: calc(100% - 32px);
+    }
 }
-} 

@@ -1,6 +1,6 @@
-.footer{
+.footer {
     max-width: 1184px;
-    height: 18px;
+    min-height: 18px;
     margin: 0 auto 24px;
     display: flex;
     flex-direction: row;
@@ -21,8 +21,8 @@
         max-width: calc(100% - 96px);
     }
 }
-     
-     
+
+
 @media (min-width:321px) and (max-width: 767px) {
     .footer {
         max-width: calc(100% - 48px);
@@ -34,4 +34,4 @@
     .footer {
         flex-direction: column;
     }
-} 
+}
