@@ -16,6 +16,6 @@
     .footer__copyright {
         font-size: 14px;
         line-height: 14px;
-        padding-bottom: 24px;
+        margin: 24px 118px 24px 16px;
     }
 }
