@@ -17,6 +17,6 @@
     .footer__links {
         flex-direction: column;
         align-content: flex-start;
-        margin-top: 64px;
+        margin: 64px 118px 24px 16px;
     }
 }
