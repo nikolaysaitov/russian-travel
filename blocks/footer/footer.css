@@ -1,6 +1,5 @@
 .footer {
     max-width: 1184px;
-    min-height: 18px;
     margin: 0 auto 24px;
     display: flex;
     flex-direction: row;
@@ -9,24 +8,16 @@
 }
 
 
-@media (min-width: 1025px) and (max-width: 1280px) {
+@media (min-width: 769px) and (max-width: 1280px) {
     .footer {
         max-width: calc(100% - 96px);
     }
 }
 
 
-@media (min-width: 768px) and (max-width: 1024px) {
-    .footer {
-        max-width: calc(100% - 96px);
-    }
-}
-
-
-@media (min-width:321px) and (max-width: 767px) {
+@media (min-width:321px) and (max-width: 768px) {
     .footer {
         max-width: calc(100% - 48px);
-        flex-direction: column;
     }
 }
 

@@ -12,30 +12,15 @@
 
 
 .footer__link:hover {
-    color: white;
     opacity: 0.8;
 }
 
-@media (min-width:321px) and (max-width: 767px) {
+@media (min-width:320px) and (max-width: 767px) {
     .footer__link {
         font-size: 24px;
         line-height: 24px;
         margin-bottom: 32px;
     }
-
-    .footer__link:last-child {
-        margin-bottom: 48px;
-    }
-}
-
-
-@media (max-width: 320px) {
-    .footer__link {
-        font-size: 24px;
-        line-height: 24px;
-        margin-bottom: 32px;
-    }
-
     .footer__link:last-child {
         margin-bottom: 48px;
     }

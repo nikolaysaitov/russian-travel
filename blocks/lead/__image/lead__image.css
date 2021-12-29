@@ -3,19 +3,7 @@
     display: block;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-    .lead__image {
-        max-width: 100%;
-    }
-}
-
-@media (min-width: 321px) and (max-width: 768px) {
-    .lead__image {
-        max-width: 100%;
-    }
-}
-
-@media (max-width: 320px) {
+@media (min-width: 320px) and (max-width: 1024px) {
     .lead__image {
         max-width: 100%;
     }

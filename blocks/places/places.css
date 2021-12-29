@@ -11,10 +11,18 @@
 }
 
 
-@media (min-width:321px) and (max-width: 768px) {
+
+@media (min-width:469px) and (max-width: 768px) {
     .places {
         max-width: calc(100% - 48px);
-        margin: 0 auto 66px;
+        margin: 0 auto 90px;
+    }
+}
+
+@media (min-width:321px) and (max-width: 468px) {
+    .places {
+        /* max-width: calc(100% - 48px);
+        margin: 0 auto 90px; */
     }
 }
 

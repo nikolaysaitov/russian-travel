@@ -10,29 +10,15 @@
 
 @media (min-width:692px) and (max-width: 768px) {
     .intro__title {
-        font-style: normal;
-        font-weight: 900;
         font-size: 54px;
         line-height: 58px;
     }
 }
 
 
-@media (min-width:321px) and (max-width: 691px) {
+@media (min-width:320px) and (max-width: 691px) {
     .intro__title {
         max-width: 288px;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 32px;
-        line-height: 35px;
-    }
-}
-
-@media (max-width: 320px) {
-    .intro__title {
-        max-width: 288px;
-        font-style: normal;
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
     }

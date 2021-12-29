@@ -4,34 +4,21 @@
   min-height: 52px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
 
 }
 
-@media (min-width: 1025px) and (max-width: 1280px) {
+@media (min-width: 769px) and (max-width: 1280px) {
   .header {
     margin: 28px auto 48px;
     max-width: calc(100% - 96px);
   }
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  .header {
-    margin: 28px auto 48px;
-    max-width: calc(100% - 96px);
-  }
-}
 
-@media (min-width: 321px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 768px) {
   .header {
     margin: 16px auto 48px;
-    max-width: calc(100% - 32px);
-  }
-}
-
-@media (max-width: 320px) {
-  .header {
-    margin: 16px auto 48px;
-    max-width: calc(100% - 32px);
+    max-width: calc(100% - 48px);
   }
 }

@@ -8,14 +8,7 @@
 }
 
 
-@media (min-width:321px) and (max-width: 768px) {
-  .intro__text {
-    max-width: 100%;
-    margin: 0 0 34px;
-  }
-}
-
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width: 768px) {
   .intro__text {
     max-width: 100%;
     margin: 0 0 34px;

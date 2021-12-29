@@ -1,6 +1,5 @@
 .place__link {
     margin: 0;
-    width: 456px;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -11,6 +10,5 @@
 }
 
 .place__link:hover {
-    color: white;
     opacity: 0.8;
 }

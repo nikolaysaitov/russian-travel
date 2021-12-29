@@ -1,7 +1,3 @@
-.footer__link-item{
-
-}
-
 @media (min-width:321px) and (max-width: 767px) {
     .footer__link-item {
         margin-bottom: 32px;
